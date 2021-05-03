@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('Cloning Git') {
       steps {
-        git([url: 'https://kibr1371@github.com/kibr1371/coursework.git', branch: 'master'])
+        git([url: 'https://kibr1371@github.com/kibr1371/coursework.git', branch: 'main'])
       }
     }
     stage('Building image') {
