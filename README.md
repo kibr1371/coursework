@@ -1,1 +1,1 @@
-[![Build Status](https://github.com/jenkinsci/embeddable-build-status-plugin/blob/master/src/doc/flat_unconfigured.svg)]
+[![docker](https://github.com/kibr1371/coursework/actions/workflows/docker.yml/badge.svg)](https://github.com/kibr1371/coursework/actions/workflows/docker.yml)
